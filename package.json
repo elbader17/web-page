@@ -1,0 +1,19 @@
+{
+  "name": "web-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elbader17/web-page.git"
+  },
+  "author": "Eduardo Bader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elbader17/web-page/issues"
+  },
+  "homepage": "https://github.com/elbader17/web-page#readme"
+}
